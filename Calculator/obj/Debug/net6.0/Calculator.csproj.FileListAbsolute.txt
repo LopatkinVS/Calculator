@@ -30,3 +30,9 @@ C:\Users\thebr\source\repos\Calculator\Calculator\obj\Debug\net6.0\refint\Calcul
 C:\Users\thebr\source\repos\Calculator\Calculator\obj\Debug\net6.0\Calculator.pdb
 C:\Users\thebr\source\repos\Calculator\Calculator\obj\Debug\net6.0\Calculator.genruntimeconfig.cache
 C:\Users\thebr\source\repos\Calculator\Calculator\obj\Debug\net6.0\ref\Calculator.dll
+C:\Users\thebr\source\repos\Calculator\Calculator\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+C:\Users\thebr\source\repos\Calculator\Calculator\bin\Debug\net6.0\Calculator.BI.dll
+C:\Users\thebr\source\repos\Calculator\Calculator\bin\Debug\net6.0\Calculator.Data.dll
+C:\Users\thebr\source\repos\Calculator\Calculator\bin\Debug\net6.0\Calculator.BI.pdb
+C:\Users\thebr\source\repos\Calculator\Calculator\bin\Debug\net6.0\Calculator.Data.pdb
+C:\Users\thebr\source\repos\Calculator\Calculator\obj\Debug\net6.0\Calculator.sourcelink.json

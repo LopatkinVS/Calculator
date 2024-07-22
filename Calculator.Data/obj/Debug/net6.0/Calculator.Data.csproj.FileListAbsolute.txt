@@ -1,0 +1,12 @@
+C:\Users\thebr\source\repos\Calculator\Calculator.Data\bin\Debug\net6.0\Calculator.Data.deps.json
+C:\Users\thebr\source\repos\Calculator\Calculator.Data\bin\Debug\net6.0\Calculator.Data.dll
+C:\Users\thebr\source\repos\Calculator\Calculator.Data\bin\Debug\net6.0\Calculator.Data.pdb
+C:\Users\thebr\source\repos\Calculator\Calculator.Data\obj\Debug\net6.0\Calculator.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thebr\source\repos\Calculator\Calculator.Data\obj\Debug\net6.0\Calculator.Data.AssemblyInfoInputs.cache
+C:\Users\thebr\source\repos\Calculator\Calculator.Data\obj\Debug\net6.0\Calculator.Data.AssemblyInfo.cs
+C:\Users\thebr\source\repos\Calculator\Calculator.Data\obj\Debug\net6.0\Calculator.Data.csproj.CoreCompileInputs.cache
+C:\Users\thebr\source\repos\Calculator\Calculator.Data\obj\Debug\net6.0\Calculator.Data.sourcelink.json
+C:\Users\thebr\source\repos\Calculator\Calculator.Data\obj\Debug\net6.0\Calculator.Data.dll
+C:\Users\thebr\source\repos\Calculator\Calculator.Data\obj\Debug\net6.0\refint\Calculator.Data.dll
+C:\Users\thebr\source\repos\Calculator\Calculator.Data\obj\Debug\net6.0\Calculator.Data.pdb
+C:\Users\thebr\source\repos\Calculator\Calculator.Data\obj\Debug\net6.0\ref\Calculator.Data.dll

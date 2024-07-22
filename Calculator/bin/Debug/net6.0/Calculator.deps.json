@@ -8,10 +8,21 @@
     ".NETCoreApp,Version=v6.0": {
       "Calculator/1.0.0": {
         "dependencies": {
+          "Calculator.BI": "1.0.0",
+          "Calculator.Data": "1.0.0",
+          "Microsoft.AspNetCore.Mvc.Versioning": "5.1.0",
           "Swashbuckle.AspNetCore": "6.5.0"
         },
         "runtime": {
           "Calculator.dll": {}
+        }
+      },
+      "Microsoft.AspNetCore.Mvc.Versioning/5.1.0": {
+        "runtime": {
+          "lib/net6.0/Microsoft.AspNetCore.Mvc.Versioning.dll": {
+            "assemblyVersion": "5.1.0.0",
+            "fileVersion": "5.1.8270.41513"
+          }
         }
       },
       "Microsoft.Extensions.ApiDescription.Server/6.0.5": {},
@@ -60,6 +71,19 @@
             "fileVersion": "6.5.0.0"
           }
         }
+      },
+      "Calculator.BI/1.0.0": {
+        "dependencies": {
+          "Calculator.Data": "1.0.0"
+        },
+        "runtime": {
+          "Calculator.BI.dll": {}
+        }
+      },
+      "Calculator.Data/1.0.0": {
+        "runtime": {
+          "Calculator.Data.dll": {}
+        }
       }
     }
   },
@@ -68,6 +92,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "Microsoft.AspNetCore.Mvc.Versioning/5.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-UX8w9BlCiZpr6Ox4YAve1w0CkI1CAovukGNzKd7v0+5pZc8lzuG5tRovucr1RWIKHs0E/Yx8563CN7KzaB3bpw==",
+      "path": "microsoft.aspnetcore.mvc.versioning/5.1.0",
+      "hashPath": "microsoft.aspnetcore.mvc.versioning.5.1.0.nupkg.sha512"
     },
     "Microsoft.Extensions.ApiDescription.Server/6.0.5": {
       "type": "package",
@@ -110,6 +141,16 @@
       "sha512": "sha512-OvbvxX+wL8skxTBttcBsVxdh73Fag4xwqEU2edh4JMn7Ws/xJHnY/JB1e9RoCb6XpDxUF3hD9A0Z1lEUx40Pfw==",
       "path": "swashbuckle.aspnetcore.swaggerui/6.5.0",
       "hashPath": "swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+    },
+    "Calculator.BI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Calculator.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }

@@ -10,6 +10,7 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 builder.Services.AddRepositories(builder.Configuration);
+builder.Services.AddBusinessServices(builder.Configuration);
 
 var app = builder.Build();
 
