@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\thebr\\source\\repos\\Calculator\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{309639C9-B797-498B-81C9-F855029168BF}|Calculator.Data\\Calculator.Data.csproj|c:\\users\\thebr\\source\\repos\\calculator\\calculator.data\\repositories\\calculatenumberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{309639C9-B797-498B-81C9-F855029168BF}|Calculator.Data\\Calculator.Data.csproj|solutionrelative:calculator.data\\repositories\\calculatenumberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{309639C9-B797-498B-81C9-F855029168BF}|Calculator.Data\\Calculator.Data.csproj|c:\\users\\thebr\\source\\repos\\calculator\\calculator.data\\interfaces\\icalculatenumberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{309639C9-B797-498B-81C9-F855029168BF}|Calculator.Data\\Calculator.Data.csproj|solutionrelative:calculator.data\\interfaces\\icalculatenumberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54B79D1C-609B-4607-B717-C9E3883ADDF3}|Calculator\\Calculator.csproj|c:\\users\\thebr\\source\\repos\\calculator\\calculator\\extensions\\webbuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54B79D1C-609B-4607-B717-C9E3883ADDF3}|Calculator\\Calculator.csproj|solutionrelative:calculator\\extensions\\webbuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BD735103-7229-4F7A-A7F5-52F260824C71}|Calculator.BI\\Calculator.BI.csproj|c:\\users\\thebr\\source\\repos\\calculator\\calculator.bi\\services\\calculateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BD735103-7229-4F7A-A7F5-52F260824C71}|Calculator.BI\\Calculator.BI.csproj|solutionrelative:calculator.bi\\services\\calculateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD735103-7229-4F7A-A7F5-52F260824C71}|Calculator.BI\\Calculator.BI.csproj|c:\\users\\thebr\\source\\repos\\calculator\\calculator.bi\\interfaces\\icalculateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD735103-7229-4F7A-A7F5-52F260824C71}|Calculator.BI\\Calculator.BI.csproj|solutionrelative:calculator.bi\\interfaces\\icalculateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{54B79D1C-609B-4607-B717-C9E3883ADDF3}|Calculator\\Calculator.csproj|c:\\users\\thebr\\source\\repos\\calculator\\calculator\\controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -13,18 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{54B79D1C-609B-4607-B717-C9E3883ADDF3}|Calculator\\Calculator.csproj|c:\\users\\thebr\\source\\repos\\calculator\\calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{54B79D1C-609B-4607-B717-C9E3883ADDF3}|Calculator\\Calculator.csproj|solutionrelative:calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{54B79D1C-609B-4607-B717-C9E3883ADDF3}|Calculator\\Calculator.csproj|c:\\users\\thebr\\source\\repos\\calculator\\calculator\\extensions\\webbuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54B79D1C-609B-4607-B717-C9E3883ADDF3}|Calculator\\Calculator.csproj|solutionrelative:calculator\\extensions\\webbuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{309639C9-B797-498B-81C9-F855029168BF}|Calculator.Data\\Calculator.Data.csproj|c:\\users\\thebr\\source\\repos\\calculator\\calculator.data\\repositories\\calculatenumberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{309639C9-B797-498B-81C9-F855029168BF}|Calculator.Data\\Calculator.Data.csproj|solutionrelative:calculator.data\\repositories\\calculatenumberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{309639C9-B797-498B-81C9-F855029168BF}|Calculator.Data\\Calculator.Data.csproj|c:\\users\\thebr\\source\\repos\\calculator\\calculator.data\\interfaces\\icalculatenumberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{309639C9-B797-498B-81C9-F855029168BF}|Calculator.Data\\Calculator.Data.csproj|solutionrelative:calculator.data\\interfaces\\icalculatenumberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{54B79D1C-609B-4607-B717-C9E3883ADDF3}|Calculator\\Calculator.csproj|c:\\users\\thebr\\source\\repos\\calculator\\calculator\\controllers\\abstract\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 295,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,46 +54,55 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "ICalculateService.cs",
+              "DocumentMoniker": "C:\\Users\\thebr\\source\\repos\\Calculator\\Calculator.BI\\Interfaces\\ICalculateService.cs",
+              "RelativeDocumentMoniker": "Calculator.BI\\Interfaces\\ICalculateService.cs",
+              "ToolTip": "C:\\Users\\thebr\\source\\repos\\Calculator\\Calculator.BI\\Interfaces\\ICalculateService.cs",
+              "RelativeToolTip": "Calculator.BI\\Interfaces\\ICalculateService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T17:08:03.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "CalculateService.cs",
               "DocumentMoniker": "C:\\Users\\thebr\\source\\repos\\Calculator\\Calculator.BI\\Services\\CalculateService.cs",
               "RelativeDocumentMoniker": "Calculator.BI\\Services\\CalculateService.cs",
               "ToolTip": "C:\\Users\\thebr\\source\\repos\\Calculator\\Calculator.BI\\Services\\CalculateService.cs",
               "RelativeToolTip": "Calculator.BI\\Services\\CalculateService.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB0AAAAxAAAA",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAlwC8AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T16:08:58.488Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-22T16:08:58.488Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "CalculatorController.cs",
               "DocumentMoniker": "C:\\Users\\thebr\\source\\repos\\Calculator\\Calculator\\Controllers\\CalculatorController.cs",
               "RelativeDocumentMoniker": "Calculator\\Controllers\\CalculatorController.cs",
               "ToolTip": "C:\\Users\\thebr\\source\\repos\\Calculator\\Calculator\\Controllers\\CalculatorController.cs",
               "RelativeToolTip": "Calculator\\Controllers\\CalculatorController.cs",
-              "ViewState": "AQIAAE0AAAAAAAAAAAAqwGwAAAAQAAAA",
+              "ViewState": "AQIAAGgAAAAAAAAAAAAWwH0AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T16:05:46.822Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-22T16:05:46.822Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "WebBuilderExtensions.cs",
               "DocumentMoniker": "C:\\Users\\thebr\\source\\repos\\Calculator\\Calculator\\Extensions\\WebBuilderExtensions.cs",
               "RelativeDocumentMoniker": "Calculator\\Extensions\\WebBuilderExtensions.cs",
               "ToolTip": "C:\\Users\\thebr\\source\\repos\\Calculator\\Calculator\\Extensions\\WebBuilderExtensions.cs",
               "RelativeToolTip": "Calculator\\Extensions\\WebBuilderExtensions.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAAABUAAABGAAAA",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABcAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T15:59:12.249Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-22T15:59:12.249Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "BaseApiController.cs",
               "DocumentMoniker": "C:\\Users\\thebr\\source\\repos\\Calculator\\Calculator\\Controllers\\Abstract\\BaseApiController.cs",
               "RelativeDocumentMoniker": "Calculator\\Controllers\\Abstract\\BaseApiController.cs",
@@ -101,39 +114,38 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\thebr\\source\\repos\\Calculator\\Calculator\\Program.cs",
               "RelativeDocumentMoniker": "Calculator\\Program.cs",
               "ToolTip": "C:\\Users\\thebr\\source\\repos\\Calculator\\Calculator\\Program.cs",
               "RelativeToolTip": "Calculator\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAjwB0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T15:51:26.16Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-22T15:51:26.16Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "CalculateNumberRepository.cs",
               "DocumentMoniker": "C:\\Users\\thebr\\source\\repos\\Calculator\\Calculator.Data\\Repositories\\CalculateNumberRepository.cs",
               "RelativeDocumentMoniker": "Calculator.Data\\Repositories\\CalculateNumberRepository.cs",
               "ToolTip": "C:\\Users\\thebr\\source\\repos\\Calculator\\Calculator.Data\\Repositories\\CalculateNumberRepository.cs",
               "RelativeToolTip": "Calculator.Data\\Repositories\\CalculateNumberRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-22T15:41:19.143Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "ICalculateNumberRepository.cs",
               "DocumentMoniker": "C:\\Users\\thebr\\source\\repos\\Calculator\\Calculator.Data\\Interfaces\\ICalculateNumberRepository.cs",
               "RelativeDocumentMoniker": "Calculator.Data\\Interfaces\\ICalculateNumberRepository.cs",
               "ToolTip": "C:\\Users\\thebr\\source\\repos\\Calculator\\Calculator.Data\\Interfaces\\ICalculateNumberRepository.cs",
               "RelativeToolTip": "Calculator.Data\\Interfaces\\ICalculateNumberRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-22T15:37:05.312Z",
               "EditorCaption": ""

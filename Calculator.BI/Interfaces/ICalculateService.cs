@@ -8,5 +8,6 @@
         double CalculateDivision(double dividend, double divider);
         double CalculatePow(double intialNumber, double power);
         double CalculateSquareRoot(double initialNumber);
+        double CalculateExpression(string  expression);
     }
 }

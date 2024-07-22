@@ -112,5 +112,21 @@ namespace Calculator.Controllers
                 return BadRequest(ex.Message);
             }
         }
+
+        [HttpGet]
+        [Route("[action]")]
+        public IActionResult Expression([FromQuery] string expression)
+        {
+            try
+            {
+                var answer = _calculateService.CalculateExpression(expression);
+
+                return Ok(answer);
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(ex.Message);
+            }
+        }
     }
 }

@@ -5,6 +5,13 @@ namespace Calculator.BI.Services
 {
     public class CalculateService : ICalculateService
     {
+        private readonly ICalculateNumberRepository _calculateNumberRepository;
+
+        public CalculateService(ICalculateNumberRepository calculateNumberRepository)
+        {
+            _calculateNumberRepository = calculateNumberRepository;
+        }
+
         public double CalculateSum(double firstTerm, double secondTerm)
         {
             return firstTerm + secondTerm;
@@ -33,6 +40,11 @@ namespace Calculator.BI.Services
         public double CalculateSquareRoot(double initialNumber)
         {
             return Math.Sqrt(initialNumber);
+        }
+
+        public double CalculateExpression(string expression)
+        {
+            return _calculateNumberRepository.CalculateString(expression);
         }
     }
 }
