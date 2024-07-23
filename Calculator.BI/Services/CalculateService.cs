@@ -37,9 +37,9 @@ namespace Calculator.BI.Services
             return Math.Pow(intialNumber, power);
         }
 
-        public double CalculateSquareRoot(double initialNumber)
+        public double CalculateSquareRoot(double initialNumber, double rootDegree)
         {
-            return Math.Sqrt(initialNumber);
+            return Math.Pow(initialNumber, 1.0 / rootDegree);
         }
 
         public double CalculateExpression(string expression)
