@@ -1,30 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {
-      "Calculator.Data/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "compile": {
-          "bin/placeholder/Calculator.Data.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Calculator.Data.dll": {}
-        }
-      }
-    }
+    "net6.0": {}
   },
-  "libraries": {
-    "Calculator.Data/1.0.0": {
-      "type": "project",
-      "path": "../Calculator.Data/Calculator.Data.csproj",
-      "msbuildProject": "../Calculator.Data/Calculator.Data.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    "net6.0": [
-      "Calculator.Data >= 1.0.0"
-    ]
+    "net6.0": []
   },
   "packageFolders": {
     "C:\\Users\\thebr\\.nuget\\packages\\": {},
@@ -58,11 +39,7 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {
-            "C:\\Users\\thebr\\source\\repos\\Calculator\\Calculator.Data\\Calculator.Data.csproj": {
-              "projectPath": "C:\\Users\\thebr\\source\\repos\\Calculator\\Calculator.Data\\Calculator.Data.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {

@@ -7,27 +7,14 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "Calculator.BI/1.0.0": {
-        "dependencies": {
-          "Calculator.Data": "1.0.0"
-        },
         "runtime": {
           "Calculator.BI.dll": {}
-        }
-      },
-      "Calculator.Data/1.0.0": {
-        "runtime": {
-          "Calculator.Data.dll": {}
         }
       }
     }
   },
   "libraries": {
     "Calculator.BI/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "Calculator.Data/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

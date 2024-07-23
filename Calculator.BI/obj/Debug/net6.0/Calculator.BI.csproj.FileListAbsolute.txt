@@ -1,15 +1,11 @@
 C:\Users\thebr\source\repos\Calculator\Calculator.BI\bin\Debug\net6.0\Calculator.BI.deps.json
 C:\Users\thebr\source\repos\Calculator\Calculator.BI\bin\Debug\net6.0\Calculator.BI.dll
 C:\Users\thebr\source\repos\Calculator\Calculator.BI\bin\Debug\net6.0\Calculator.BI.pdb
-C:\Users\thebr\source\repos\Calculator\Calculator.BI\bin\Debug\net6.0\Calculator.Data.dll
-C:\Users\thebr\source\repos\Calculator\Calculator.BI\bin\Debug\net6.0\Calculator.Data.pdb
-C:\Users\thebr\source\repos\Calculator\Calculator.BI\obj\Debug\net6.0\Calculator.BI.csproj.AssemblyReference.cache
 C:\Users\thebr\source\repos\Calculator\Calculator.BI\obj\Debug\net6.0\Calculator.BI.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\thebr\source\repos\Calculator\Calculator.BI\obj\Debug\net6.0\Calculator.BI.AssemblyInfoInputs.cache
 C:\Users\thebr\source\repos\Calculator\Calculator.BI\obj\Debug\net6.0\Calculator.BI.AssemblyInfo.cs
 C:\Users\thebr\source\repos\Calculator\Calculator.BI\obj\Debug\net6.0\Calculator.BI.csproj.CoreCompileInputs.cache
 C:\Users\thebr\source\repos\Calculator\Calculator.BI\obj\Debug\net6.0\Calculator.BI.sourcelink.json
-C:\Users\thebr\source\repos\Calculator\Calculator.BI\obj\Debug\net6.0\Calculat.EA5DF7E5.Up2Date
 C:\Users\thebr\source\repos\Calculator\Calculator.BI\obj\Debug\net6.0\Calculator.BI.dll
 C:\Users\thebr\source\repos\Calculator\Calculator.BI\obj\Debug\net6.0\refint\Calculator.BI.dll
 C:\Users\thebr\source\repos\Calculator\Calculator.BI\obj\Debug\net6.0\Calculator.BI.pdb

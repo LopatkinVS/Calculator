@@ -13,7 +13,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Calculator.BI\Calculator.BI.csproj" />
-    <ProjectReference Include="..\Calculator.Data\Calculator.Data.csproj" />
   </ItemGroup>
 
 </Project>

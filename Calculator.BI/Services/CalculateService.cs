@@ -5,9 +5,9 @@ namespace Calculator.BI.Services
 {
     public class CalculateService : ICalculateService
     {
-        private readonly ICalculateNumberRepository _calculateNumberRepository;
+        private readonly ICalculateNumberService _calculateNumberRepository;
 
-        public CalculateService(ICalculateNumberRepository calculateNumberRepository)
+        public CalculateService(ICalculateNumberService calculateNumberRepository)
         {
             _calculateNumberRepository = calculateNumberRepository;
         }

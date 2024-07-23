@@ -8,18 +8,11 @@ namespace Calculator.Extensions
 {
     public static class WebBuilderExtensions
     {
-        public static IServiceCollection AddRepositories(this IServiceCollection services,
-            IConfiguration configuration)
-        {
-            services.AddScoped<ICalculateNumberRepository, CalculateNumberRepository>();
-
-            return services;
-        }
-
         public static IServiceCollection AddBusinessServices(this IServiceCollection services,
             IConfiguration configuration)
         {
             services.AddScoped<ICalculateService, CalculateService>();
+            services.AddScoped<ICalculateNumberService, CalculateNumberService>();
 
             return services;
         }

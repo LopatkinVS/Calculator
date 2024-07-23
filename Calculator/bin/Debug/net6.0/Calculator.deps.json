@@ -9,7 +9,6 @@
       "Calculator/1.0.0": {
         "dependencies": {
           "Calculator.BI": "1.0.0",
-          "Calculator.Data": "1.0.0",
           "Microsoft.AspNetCore.Mvc.Versioning": "5.1.0",
           "Swashbuckle.AspNetCore": "6.5.0"
         },
@@ -73,16 +72,8 @@
         }
       },
       "Calculator.BI/1.0.0": {
-        "dependencies": {
-          "Calculator.Data": "1.0.0"
-        },
         "runtime": {
           "Calculator.BI.dll": {}
-        }
-      },
-      "Calculator.Data/1.0.0": {
-        "runtime": {
-          "Calculator.Data.dll": {}
         }
       }
     }
@@ -143,11 +134,6 @@
       "hashPath": "swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
     },
     "Calculator.BI/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "Calculator.Data/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

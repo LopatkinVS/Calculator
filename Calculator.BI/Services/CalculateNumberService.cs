@@ -3,16 +3,13 @@ using System.Text.RegularExpressions;
 
 namespace Calculator.Data.Repositories
 {
-    public class CalculateNumberRepository : ICalculateNumberRepository
+    public class CalculateNumberService : ICalculateNumberService
     {
         private const string numberChars = "0123456789.";
         private const string operatorChars = "^*/+-";
 
         public double CalculateString(string expression)
         {
-            if (string.IsNullOrEmpty(expression))
-                throw new ArgumentException("Пустое выражение недопустимо", nameof(expression));
-
             CheckBrackets(expression);
 
             return EvaluateBrackets(expression);
@@ -126,7 +123,6 @@ namespace Calculator.Data.Repositories
             }
             return numbers[0];
         }
-
 
         private double Calculate(double left, double right, char oper)
         {
